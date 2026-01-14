@@ -23,7 +23,7 @@
         <junit.version>4.12</junit.version>
 
         <commons-codec.version>1.11</commons-codec.version>
-        <commons-lang3.version>3.7</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
 
         <httpclient.version>4.5.5</httpclient.version>
         <jedis.version>2.9.0</jedis.version>
